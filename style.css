@@ -1,0 +1,48 @@
+body{
+    color: cadetblue;
+    background-color:antiquewhite
+
+}
+
+header{
+    border-bottom: solid 2px wheat;
+    padding: 3px;
+    font-size: 36px;
+    color: cornflowerblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+section {
+    background-color: rebeccapurple;
+    padding-bottom: 60px;
+    padding-top: 55px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 3%;
+}
+
+h1{
+    font-size: xx-large;
+}
+
+p{
+    font-size: large;
+}
+
+img{
+    height: 200px;
+}
+
+.categoria-dos-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+}
+
+section{
+ padding-left: 20px;
+ padding-right: 20px;
+}
