@@ -19,6 +19,9 @@ section {
     display: flex;
     justify-content: center;
 }
+h2{
+    margin: 10px;
+}
 
 .chamada-texto{
     margin-right: 3%;
